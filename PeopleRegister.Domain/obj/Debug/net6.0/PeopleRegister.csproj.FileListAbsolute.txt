@@ -1,0 +1,12 @@
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\bin\Debug\net6.0\PeopleRegister.deps.json
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\bin\Debug\net6.0\PeopleRegister.dll
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\bin\Debug\net6.0\PeopleRegister.pdb
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.csproj.AssemblyReference.cache
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.GeneratedMSBuildEditorConfig.editorconfig
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.AssemblyInfoInputs.cache
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.AssemblyInfo.cs
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.csproj.CoreCompileInputs.cache
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.dll
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\refint\PeopleRegister.dll
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\PeopleRegister.pdb
+D:\IATEC DESAFIO\Proyecto\PeopleRegister\PeopleRegister.Domain\obj\Debug\net6.0\ref\PeopleRegister.dll
